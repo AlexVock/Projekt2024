@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Neonhal",
+    "price": "500 Ft",
+    "description": "Élénk színekben pompázó, békés hal, amely kis csapatokban érzi jól magát."
+  },
+  {
+    "name": "Bettahal",
+    "price": "2500 Ft",
+    "description": "Színpompás, egyedi farokformájú hal, amely egyedül is tartható kisebb akváriumban."
+  },
+  {
+    "name": "Aranyhal",
+    "price": "800 Ft",
+    "description": "Klasszikus akváriumi hal, amely hosszú életű és könnyen gondozható."
+  },
+  {
+    "name": "Guppi",
+    "price": "300 Ft",
+    "description": "Kis méretű, színes, gyorsan szaporodó hal, kezdő akvaristák számára is ideális."
+  },
+  {
+    "name": "Harlekin razbóra",
+    "price": "360 Ft",
+    "description": "Aktív, rajban tartott hal, amely jól érzi magát növényekkel teleültetett akváriumban."
+  },
+  {
+    "name": "Diszkoszhal",
+    "price": "10000 Ft",
+    "description": "Elegáns, nagytestű hal, amely tiszta és stabil körülményeket igényel."
+  }
+]

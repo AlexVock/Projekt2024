@@ -1,0 +1,32 @@
+ [
+    {
+      "name": "Dennerle Nano Cube Basic - 60L",
+      "price": "78,990 Ft",
+      "description": "Kompakt nano akvárium szett, ideális kezdőknek és kisebb halak, garnélák tartására. Tartalmaz szűrőt és modern LED világítást."
+    },
+    {
+      "name": "Oase ScaperLine 60 akvárium szett bútorral",
+      "price": "305,990 Ft",
+      "description": "Prémium minőségű akvárium szett bútorral, kiváló választás növényes akváriumokhoz. Kifejezetten haladóknak ajánlott."
+    },
+    {
+      "name": "Aqua Nova Nano Akvárium Szett 10L",
+      "price": "24,500 Ft",
+      "description": "Elegáns, kicsi akvárium hajlított üvegsarkokkal. Praktikus belső szűrővel és könnyű tisztíthatósággal rendelkezik."
+    },
+    {
+      "name": "Szer-Ber Akvárium Szett 96L",
+      "price": "52,700 Ft",
+      "description": "Teljes felszereltségű akvárium kezdők számára. Tetővilágítással, belső szűrővel és fűtővel érkezik."
+    },
+    {
+      "name": "Fluval Flex 34L",
+      "price": "69,990 Ft",
+      "description": "Modern dizájnú kis akvárium, amely tartalmaz szűrőt, LED világítást és intelligens távirányítót."
+    },
+    {
+      "name": "Eheim Vivaline LED 240",
+      "price": "200,000 Ft",
+      "description": "Tágas, 240 literes akvárium profi szintű világítással és integrált szűrőrendszerrel, ideális nagyobb halak számára."
+    }
+  ]

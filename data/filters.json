@@ -1,0 +1,33 @@
+ [
+  {
+    "name": "Aqua Nova NCF-1500",
+    "price": "29,990 Ft",
+    "description": "Külső szűrő nagyobb akváriumokhoz, 1500 liter/óra áramlási kapacitással. Csendes működés és könnyű karbantartás."
+  },
+  {
+    "name": "EHEIM Classic 2213",
+    "price": "34,990 Ft",
+    "description": "Ikonikus külső szűrő kisebb és közepes méretű akváriumokhoz, megbízható mechanikai és biológiai szűréssel."
+  },
+  {
+    "name": "Tetra EX 600 Plus",
+    "price": "37,990 Ft",
+    "description": "Hatékony külső szűrő közepes méretű akváriumokhoz, egyszerű telepítéssel és magas szűrési kapacitással."
+  },
+  {
+    "name": "Fluval FX4",
+    "price": "89,990 Ft",
+    "description": "Nagy kapacitású külső szűrő, amely akár 1000 literes akváriumokhoz is alkalmas, erős szűrési képességgel."
+  },
+  {
+    "name": "AquaEl Turbo 500",
+    "price": "12,490 Ft",
+    "description": "Belső szűrő kisebb akváriumokhoz. Könnyen telepíthető, és kombinálható biológiai szűrőanyagokkal."
+  },
+  {
+    "name": "JBL CristalProfi e902",
+    "price": "53,990 Ft",
+    "description": "Nagy hatékonyságú külső szűrő közepes és nagyobb akváriumokhoz, alacsony energiafogyasztással."
+  }
+]
+

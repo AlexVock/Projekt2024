@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" type="image/x-icon" href="../img/icon.png">
+    <link rel="stylesheet" href="../css/kapcsolo.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>valami1</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">AquaStore</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="../html/index.html">Főoldal </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="../html/index2.html">Akváriumok</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="../html/index3.html">Szűrők</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="../html/index4.html">Halak</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="../html/eler.html">Elérhetőség</a>
+                  </li>
+                  
+              </ul>
+              <li class="nav-item" id="vissza">
+                <a href="../html/index3.html" class="vissza">
+                    <img src="../img/vissza.webp" alt="Vissza a termékekhez">
+                </a>
+            </li>
+              
+            </div>
+            <input type="checkbox" class="checkbox" id="checkbox">
+              <label for="checkbox" class="checkbox-label">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+                <span class="ball"></span>
+              </label>
+          </nav>
+          
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-12 d-flex align-items-center" class="img-fluid">
+                <img class="img3" src="../img/sz6.jpg" alt="termék">
+            </div>
+            <div class="col-lg-9 col-md-12">
+              <div class="oldalszoveg3">
+                  <h2 id="filter-name">Név:</h2>
+                  <h2 id="filter-price">Ár: </h2>
+              </div>
+              <p class="harmadikoldalszoveg" id="filter-description">Leírás:</p>
+              <p class="harmadikoldalszoveg">Telefonszám: 06-30-142-80-34</p>
+          </div>
+    </div>
+
+
+    <script>
+      const pageIndex = 6;
+    </script>
+        <script src="../js/filter.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="../js/kapcsolo.js"></script>
+</body>
+
+</html>

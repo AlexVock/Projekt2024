@@ -1,0 +1,109 @@
+.carousel-inner, .carousel-item {
+    width: 640px;
+    height: 320px;
+  }
+  
+  .slider-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid white;
+  }
+  
+.item, img{
+    height: 100% ;
+    width:  100% ;
+    border: 1px solid white;
+}
+.vissza img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+#vissza {
+    align-self: center;
+}
+.oldalszoveg3 {
+    background-color: lightblue;
+    border: 5px solid darkblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.img3 {
+    margin-top: 20px;
+}
+
+
+
+@media (max-width: 600px) {
+    .oldalszoveg {
+        font-size: 30px;
+    }
+    .masikoldalszoveg {
+        font-size: 50px;
+    
+    }
+    .harmadikoldalszoveg {
+        font-size: 17px;
+    }
+    .masikoldalszoveg2 {
+        font-size: 25px;
+    }
+    .oldalszoveg2 {
+        font-size: 30px;
+    }
+}
+
+#fooldal {
+    margin: 3% !important;
+    align-items: center;
+}
+.fooldal {
+    margin-left: 1% !important;
+}
+
+.oldalszoveg {
+    font-size: 50px;
+    color: darkblue;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 10px;
+
+}
+
+p {
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.card mx_auto{
+    height: mim(100px, auto) !important;
+    width: auto    !important;
+}
+
+.card{
+    height: 95%;
+    width: 24rem !important;
+    margin-bottom: 20px;
+}
+
+.card-img-top{
+    object-fit: cover;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding:  10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

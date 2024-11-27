@@ -1,0 +1,9 @@
+11.10/Máté-Alap
+11.13/Máté-Téma, plusz oldalak
+11.14/Ádám-plusz oldal,vissza gomb
+11.15/Máté-Kapcsoló, plusz oldalak
+11.18/Máté-oldalak
+11.19/Alex-json adatok
+11.20/Máté-JS,json adatok
+11.21/Alex-dizájn/Ádám-képek
+11.23/Ádám-főoldal,elérhetőség
